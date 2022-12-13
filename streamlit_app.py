@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('Argentina gonna win the World Cup')
+streamlit.title('Argentina definitely gonna win the World Cup')
